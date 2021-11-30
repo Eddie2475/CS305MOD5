@@ -33,3 +33,7 @@ Software developers shall commit themselves to making the analysis, specificatio
 6. PROFESSION – Software developers shall advance the integrity and reputation of the final product.
 7. COLLEAGUES – Software developers shall be fair to and supportive of their colleagues.
 8. SELF – Software developers shall participate in lifelong learning regarding the practice of professional and organized computer science.
+## Contributors
+Georgia Buchanan
+## Contributing Technology Services
+this is a hypothetical module that has information regarding additional technologies that are used for this project
