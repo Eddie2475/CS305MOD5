@@ -8,5 +8,10 @@ Software developers shall commit themselves to making the analysis, specificatio
 7. COLLEAGUES – Software developers shall be fair to and supportive of their colleagues.
 8. SELF – Software developers shall participate in lifelong learning regarding the practice of professional and organized computer science.
 
+ ghb-edits
+## List of Contributors
+Georgia Buchanan (ghb23), 
+
 #Contributors
 Devin O'Neal - ALASKAWARRIORS - dco42@nau.edu
+ main
